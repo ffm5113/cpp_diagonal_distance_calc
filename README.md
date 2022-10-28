@@ -3,6 +3,6 @@ The Diagonal Distance Calculator Program (C++) asks the user to enter a length, 
 
 A function then passes the reference variables to a 2nd function, which calculates and displays the length of the longest possible diagonal distance from corner to corner of a rectangular room.
 
-This example demonstrates how variable aliases can be created with reference variables.
+This example also demonstrates how variable aliases can be created with reference variables.
 
 Link the main cpp file: <a href="">Diagonal Distance Calculator C++ Program</a>
