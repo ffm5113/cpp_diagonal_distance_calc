@@ -6,5 +6,5 @@ A function then passes the reference variables to a 2nd function, which calculat
 This example also demonstrates how variable aliases can be created with reference variables.
 
 Link the main cpp file: <a href="https://github.com/ffm5113/cpp_diagonal_distance_calc/blob/main/DiagonalDistanceCalc.cpp">Diagonal Distance Calculator C++ Program</a>
-<br><br>
+<br>
 Copyright (c) 2022 ffm5113
